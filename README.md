@@ -36,8 +36,8 @@ NDVI, NDRE, GNDVI, GOSAVI, MCARI, MCARI1, LNC, NDWI1, NDWI2
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/DownloadSentinel2Indices.git
-cd DownloadSentinel2Indices
+git clone https://github.com/DiogoNogaraN/Datacubes-Geoespaciais.git
+cd Datacubes-Geoespaciais
 ```
 
 ### 2. Criar a estrutura de pastas no HD
